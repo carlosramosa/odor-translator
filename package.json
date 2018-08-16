@@ -1,5 +1,5 @@
 {
-  "name": "odor-translate",
+  "name": "odor-translator",
   "version": "1.0.0",
   "description": "An awesome module that translates an input into the languaje spoken by Odor",
   "main": "index.js",
