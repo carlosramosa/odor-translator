@@ -1,4 +1,4 @@
-# emoti-generator
+# odor-translator
 
 This module translates anything you want to the odor language:
 ```js
